@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pour Suba, de Nona</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="logo.webp">
+</head>
+<body>
+  <header class="top">
+    <h1>Cheat-Sheet RP</h1>
+    <p class="sub">Informations</p>
+  </header>
+
+  <section class="controls">
+    <input id="search" placeholder="Rechercher (nom, trait, signe, cache)..." />
+    <select id="axisFilter">
+      <option value="">— Tous les axes —</option>
+      <option value="retenus">Ceux qui se retiennent</option>
+      <option value="battants">Ceux qui se battent</option>
+      <option value="croire">Ceux qui veulent croire</option>
+      <option value="rythme">Ceux qui n'ont pas trouvé leur rythme</option>
+      <option value="aiment">Ceux qui aiment mal</option>
+    </select>
+    <select id="sortBy">
+      <option value="name:asc">Nom ↑</option>
+      <option value="name:desc">Nom ↓</option>
+      <option value="axis:asc">Axe ↑</option>
+      <option value="axis:desc">Axe ↓</option>
+    </select>
+    <button id="reset">Réinitialiser</button>
+  </section>
+
+  <main>
+    <div id="list" class="list"></div>
+  </main>
+
+  <footer class="footer">On dit merci qui~ ?</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
