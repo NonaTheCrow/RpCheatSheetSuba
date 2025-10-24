@@ -188,7 +188,134 @@ const DATA = [
   show:"planifie, rassure par la maîtrise",
   hide:"émotions verrouillées, peur d’échouer à protéger",
   signs:"tics de contrôle, pose beaucoup de questions avant de bouger"
+},
+{
+  id:22,
+  name:"Perfectionniste secret",
+  axis:"retenus",
+  trait:"toujours précis, méthodique",
+  show:"compétent et fiable",
+  hide:"peur de l’échec, culpabilité intense",
+  signs:"corrige les autres sans le montrer, reprend ses propres erreurs en secret"
+},
+{
+  id:23,
+  name:"Optimiste prudent",
+  axis:"croire",
+  trait:"voit le positif mais anticipe les risques",
+  show:"serein, encourageant",
+  hide:"angoisse des conséquences, doute interne",
+  signs:"sourire forcé, plans de secours toujours prêts"
+},
+{
+  id:24,
+  name:"Introverti stratégique",
+  axis:"rythme",
+  trait:"observe et calcule avant d’agir",
+  show:"discret mais efficace",
+  hide:"peur d’être manipulé, timidité sociale",
+  signs:"regarde les interactions, prend des notes mentales, répond lentement"
+},
+{
+  id:25,
+  name:"Charismatique manipulateur",
+  axis:"battants",
+  trait:"sait convaincre et séduire",
+  show:"confiance et charme",
+  hide:"peur d’être découvert, insécurité profonde",
+  signs:"rit au moment calculé, regarde les réactions"
+},
+{
+  id:26,
+  name:"Solitaire doux",
+  axis:"aiment",
+  trait:"attentionné mais réservé",
+  show:"gentil et empathique",
+  hide:"peur de l’attachement, traumatisme passé",
+  signs:"écoute plus qu’il ne parle, gestes délicats, s’efface dans le groupe"
+},
+{
+  id:27,
+  name:"Leader épuisé",
+  axis:"battants",
+  trait:"responsable, motivant",
+  show:"prend des décisions, rassure les autres",
+  hide:"stress, anxiété, sentiment de solitude",
+  signs:"regard fatigué, soupirs, vérifie tout malgré confiance"
+},
+{
+  id:28,
+  name:"Artiste insécure",
+  axis:"croire",
+  trait:"créatif, expressif",
+  show:"projets ambitieux, charisme artistique",
+  hide:"manque de confiance, peur du jugement",
+  signs:"modifie sans cesse son travail, parle de doute même après succès"
+},
+{
+  id:29,
+  name:"Compétiteur caché",
+  axis:"rythme",
+  trait:"apparent relax, mais très motivé",
+  show:"sociable, détendu",
+  hide:"obsession de gagner, peur de la médiocrité",
+  signs:"réagit aux comparaisons, sourcils froncés discrètement"
+},
+{
+  id:30,
+  name:"Réservé loyal",
+  axis:"retenus",
+  trait:"fidèle, discret",
+  show:"soutien constant, stable",
+  hide:"peur de trahir ou d’être trahi",
+  signs:"accepte les ordres sans discuter, regard fuyant quand contrarié"
+},
+{
+  id:31,
+  name:"Aventurier inquiet",
+  axis:"battants",
+  trait:"curieux, courageux",
+  show:"tente tout, spontané",
+  hide:"angoisse de l’inconnu, culpabilité pour les proches",
+  signs:"sourit nerveusement, parle vite, gestes brusques"
+},
+{
+  id:32,
+  name:"Sceptique secret",
+  axis:"croire",
+  trait:"questionne tout",
+  show:"calme, réfléchi",
+  hide:"craint de se tromper, peur d’être manipulé",
+  signs:"pose des questions précises, hoche la tête lentement"
+},
+{
+  id:33,
+  name:"Rêveur concret",
+  axis:"rythme",
+  trait:"visionnaire mais pragmatique",
+  show:"idées claires, motivantes",
+  hide:"peur de l’échec, doute interne",
+  signs:"dessins, notes, gestuelle impatiente"
+},
+{
+  id:34,
+  name:"Protecteur discret",
+  axis:"aiment",
+  trait:"veille sur les autres",
+  show:"soutien silencieux",
+  hide:"angoisse si les proches sont en danger",
+  signs:"intervient quand nécessaire, se cache après avoir aidé"
+},
+{
+  id:35,
+  name:"Ambivalent charmant",
+  axis:"croire",
+  trait:"attirant, sociable",
+  show:"séduisant, accessible",
+  hide:"peur de l’engagement, anxiété relationnelle",
+  signs:"contact visuel court, gestes attentionnés mais retenus"
 }
+
 
 ];
 
